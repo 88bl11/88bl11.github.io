@@ -13,19 +13,19 @@ So before we jump in with the hands on creating glorious visualisation and Splun
 The useful stuff:
 
 Splunk is FREE to download and comes with a FREE licence, so you can get on and start playing with it for nothing. 
-Installation instructions - https://docs.splunk.com/Documentation/Splunk/7.3.0/Installation/Chooseyourplatform
+[Installation instructions](https://docs.splunk.com/Documentation/Splunk/7.3.0/Installation/Chooseyourplatform "Installing Splunk")
 
-The book I carry everywhere and is my go to cheat sheet(book) - https://www.splunk.com/pdfs/exploring-splunk.pdf
+The book I carry everywhere and is my go to cheat sheet(book) - [Exploring Splunk](https://www.splunk.com/pdfs/exploring-splunk.pdf "Exploring Splunk")
 
-Splunk training courses (Fundamentals 1 is FREE)  - https://www.splunk.com/en_us/training.html
+Splunk training courses (Fundamentals 1 is FREE)  - [Splunk training](https://www.splunk.com/en_us/training.html "Splunk training")
 
-Splunk User (after Fundamentals 1) exam topics - https://www.splunk.com/pdfs/training/Splunk-Test-Blueprint-User-v.1.1.pdf
+Splunk User (after Fundamentals 1) exam topics - [Fundamentals 1 topics](https://www.splunk.com/pdfs/training/Splunk-Test-Blueprint-User-v.1.1.pdf "Core user topics")
 
-Splunk Power user topics - https://www.splunk.com/pdfs/training/Splunk-Test-Blueprint-Power-User-v.1.1.pdf 
+Splunk Power user topics - [Power user topics](https://www.splunk.com/pdfs/training/Splunk-Test-Blueprint-Power-User-v.1.1.pdf  "Power user topics")
 
-For thos that like documentation - https://docs.splunk.com/Documentation
+For thos that like documentation - [Documentation](https://docs.splunk.com/Documentation  "Documentation")
 
-Any question you have or may have, will be answered here! best place for Splunk Q&A - https://answers.splunk.com/index.html
+Any question you have or may have, will be answered here! best place for Splunk Q&A - [Forum](https://answers.splunk.com/index.html  "Splunk Answers")
 
 
 So please, have a flick through those links and get yourself familiar with them as i will refer to them through out the posts to follow. as for next post, I will start cracking on, getting data, getting it in and starting to play with it
